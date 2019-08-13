@@ -1,3 +1,3 @@
-# Welcome to Microblog!
+# Forked from [Miguel Grinberg](https://github.com/miguelgrinberg)'s app-tutorial Microblog
 
-This is an example application featured in my [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). See the tutorial for instructions on how to work with it.
+Take a look at his work in [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). 
